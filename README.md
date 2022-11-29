@@ -6,7 +6,7 @@ Este é um repositório referente a um projeto em grupo realizado no curso de de
 
 Nele é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
 
-:warning: A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
+:warning: A base de dados consiste em 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis, dessa forma todos os protótipos vão estar desenvolvidos em telas menores.
 
