@@ -2,11 +2,19 @@
 
 # Boas-vindas ao repositório do projeto App de Receitas!
 
+Este é um repositório referente a um projeto em grupo realizado no curso de desenvolvimento web da Trybe. Foi desenvolvido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
+
+Nele é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
+
+warning A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
+
+O layout tem como foco dispositivos móveis, dessa forma todos os protótipos vão estar desenvolvidos em telas menores.
+
 # Habilidades envolvidas
 <details>
   <summary><strong>:memo: Habilidades</strong></summary><br />
 
-  Nesse projeto, você será capaz de:
+  Nesse projeto, a equipe deveria ser capaz de:
 
   - Utilizar _Redux_ para gerenciar estado
   - Utilizar a biblioteca _React-Redux_
