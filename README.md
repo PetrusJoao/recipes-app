@@ -219,26 +219,13 @@
       </details>
     </details>
 
-  * <details><summary><b>Requisitos do Projeto :memo:</b></summary>
-
-    Os requisitos são organizados por telas e dessa vez, vocês que irão definir as prioridades! Usem com sabedoria!
-
-    Recomendamos que os requisitos de uma mesma tela sejam feitos em sequência ou paralelamente por pessoas que irão comunicar-se bastante para que não haja conflitos. Requisitos de uma mesma tela com prioridades iguais possam ser feitos em paralelo, mas isso exigirá organização por parte das pessoas que estão dividindo a tarefa para não  haver conflitos.
-
-    * Os requisitos do seu projeto são avaliados automaticamente, sendo utilizada a resolução de tela de `360 x 640` (360 pixels de largura por 640 pixels de altura).
-
-        - ⚠️ Logo, recomenda-se desenvolver seu projeto usando a mesma resolução, via instalação [deste plugin](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) do `Chrome` para facilitar a configuração da resolução. ⚠️
-    </details>
-
   * <details><summary><b>Observações técnicas :information_source:</b></summary>
 
-    Algumas coisas devem seguir um padrão pré-estabelecido para que os testes de correção funcionem corretamente.
-
-    ⚠️ Leia-os atentamente e siga à risca o que for pedido. O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação. ⚠️
+    Algumas coisas deveriam seguir um padrão pré-estabelecido para que os testes de correção funcionassem corretamente.
 
     * <details><summary><b> Rotas</b></summary>
 
-      As rotas a serem utilizadas na aplicação devem ser as seguintes:
+      As rotas a serem utilizadas na aplicação devriam ser as seguintes:
 
       * Tela de login: `/`;
       * Tela principal de receitas de comidas: `/foods`;
@@ -254,7 +241,7 @@
       
     * <details><summary><b> LocalStorage</b></summary>
 
-      O uso de `localStorage` é necessário para que as informações não se percam caso a pessoa atualize a página. O correto é usar os valores para iniciar sua store ou seu context.
+      O uso de `localStorage` foi necessário para que as informações não se percam caso a pessoa atualize a página. O correto é usar os valores para iniciar sua store ou seu context.
 
       No `localStorage` do navegador:
 
@@ -343,7 +330,7 @@
 
       Para mais informações, consulte a [documentação](https://www.npmjs.com/package/clipboard-copy)
       </details>
-
+  </details>
 <br />
 
 # Requisitos
